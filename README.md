@@ -18,7 +18,7 @@ To run the application locally, follow these steps:
 - Open your browser and navigate to http://localhost:8501
 
 Usage
-1. Upload an image by clicking the "Choose an image..." button.
+1. Upload an image by clicking the "Browse files" button.
 2. Click the "Remove Background" button to process the image.
 3. The app will display the original image and the image with the background removed.
 
